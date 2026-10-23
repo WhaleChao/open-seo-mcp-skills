@@ -4,9 +4,9 @@
 
 Skip the setup: use the hosted Ryze MCP (Google sign-in, Search Console and GA4 connected in one step, approval-gated changes).
 
-**[Connect Ryze in one click →](https://www.get-ryze.ai/developers?utm_source=github&utm_content=open-seo-mcp-skills)**
+**[Connect Ryze in one click →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=open-seo-mcp-skills)**
 
-Open-source SEO + GEO skills for Claude on a free **SEO MCP server** (the Ryze connector) — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility — running on **your own Search Console, Analytics and ads data** through the [Ryze MCP](https://get-ryze.ai?utm_source=github&utm_content=open-seo-mcp-skills), with DataForSEO built in for the data Google won't give you.
+Open-source SEO + GEO skills for Claude on a free **SEO MCP server** (the Ryze connector) — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility — running on **your own Search Console, Analytics and ads data** through the [Ryze MCP](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=open-seo-mcp-skills), with DataForSEO built in for the data Google won't give you.
 
 No subscription for the tool. No markup on API calls. The skills are MIT — take them, change them, ship them.
 
